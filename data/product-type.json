@@ -1,0 +1,26 @@
+[
+  {
+    "name": "main",
+    "key": "main",
+    "description": "Spud Product Data Set Structure",
+    "attributes": [
+     
+      {
+        "name": "baseId",
+        "label": {
+          "de": "BasisID",
+          "en": "BaseID",
+          "it": "BaseID"
+        },
+        "isRequired": true,
+        "type": {
+          "name": "text"
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
+      }  
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "name": "standard",
+    "key": "standard",
+    "rates": [
+      {
+        "name": "20% incl.",
+        "amount": 0.2,
+        "includedInPrice": true,
+        "country": "AT"
+      },
+      {
+        "name": "10% incl.",
+        "amount": 0.1,
+        "includedInPrice": true,
+        "country": "US"
+      },
+      {
+        "name": "19% incl.",
+        "amount": 0.19,
+        "includedInPrice": true,
+        "country": "DE"
+      },
+      {
+        "name": "21% incl.",
+        "amount": 0.21,
+        "includedInPrice": true,
+        "country": "NL"
+      },
+      {
+        "name": "common.",
+        "amount": 0.01,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Alabama"
+      },
+      {
+        "name": "common.",
+        "amount": 0.02,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Alaska"
+      },
+      {
+        "name": "common.",
+        "amount": 0.03,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Arizona"
+      },
+      {
+        "name": "common.",
+        "amount": 0.04,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Arkansas"
+      },
+      {
+        "name": "common.",
+        "amount": 0.05,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"California"
+      },
+      {
+        "name": "common.",
+        "amount": 0.06,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Colorado"
+      },
+      {
+        "name": "common.",
+        "amount": 0.07,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Connecticut"
+      },
+      {
+        "name": "common.",
+        "amount": 0.08,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Delaware"
+      },
+      {
+        "name": "common.",
+        "amount": 0.09,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Florida"
+      },
+      {
+        "name": "common.",
+        "amount": 0.10,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Georgia"
+      },
+      {
+        "name": "common.",
+        "amount": 0.11,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Hawaii"
+      },
+      {
+        "name": "common.",
+        "amount": 0.12,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Idaho"
+      },
+      {
+        "name": "common.",
+        "amount": 0.13,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Illinois"
+      },
+      {
+        "name": "common.",
+        "amount": 0.14,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Indiana"
+      },
+      {
+        "name": "common.",
+        "amount": 0.15,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Iowa"
+      },
+      {
+        "name": "common.",
+        "amount": 0.016,
+        "includedInPrice": true,
+        "country": "US",
+        "state":"Kansas"
+      }
+    ]
+  },
+  {
+    "name": "Low Category",
+    "key": "low",
+    "rates": [
+      {
+        "name": "20% incl.",
+        "amount": 0.07,
+        "includedInPrice": true,
+        "country": "AT"
+      },
+      {
+        "name": "10% incl.",
+        "amount": 0.08,
+        "includedInPrice": true,
+        "country": "US"
+      },
+      {
+        "name": "19% incl.",
+        "amount": 0.05,
+        "includedInPrice": true,
+        "country": "DE"
+      },
+      {
+        "name": "21% incl.",
+        "amount": 0.09,
+        "includedInPrice": true,
+        "country": "NL"
+      }
+    ]
+  }
+]

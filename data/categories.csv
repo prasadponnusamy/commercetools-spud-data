@@ -1,0 +1,4 @@
+key,externalId,name.de,slug.de,name.en,slug.en,name.it,slug.it,parentId,webImageUrl,iosImageUrl
+c1,1,Shop,shop,Shop,shop,Shop,shop,,,
+c2,2,Groceries,shop-groceries,Groceries,shop-groceries,Groceries,shop-groceries,1,,
+c3,3,Fresh,shop-groceries-fresh,Fresh,shop-groceries-fresh,Fresh,shop-groceries-fresh,2,,

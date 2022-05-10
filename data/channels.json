@@ -1,0 +1,668 @@
+[
+  {
+    "key": "SPUD-store-sanfrancisco",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store San Francisco",
+      "de": "SPUD Store San Francisco"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_sanfrancisco.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Townsend Street",
+      "streetNumber": "650",
+      "postalCode": "CA 94103",
+      "city": "San Francisco",
+      "country": "US"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -122.402917,
+        37.770929
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-chicago",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Chicago",
+      "de": "SPUD Store Chicago"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_chicago.jpg"
+      }
+    },
+    "address": {
+      "streetName": "West Congress Parkway",
+      "streetNumber": "18-30",
+      "postalCode": "IL 60605",
+      "city": "Chicago",
+      "country": "US"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -87.628376,
+        41.875664
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-newyork",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store New York",
+      "de": "SPUD Store New York"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_newyork.jpg"
+      }
+    },
+    "address": {
+      "streetName": "West 37th Street",
+      "streetNumber": "260",
+      "postalCode": "NY 10018",
+      "city": "New York",
+      "country": "US"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -73.991596,
+        40.753878
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-boston-1",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Boston Back Bay",
+      "de": "SPUD Store Boston Back Bay"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_boston_1.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Newbury St,",
+      "streetNumber": "212",
+      "postalCode": "MA 02116",
+      "city": "Boston",
+      "country": "US"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -71.08358,
+        42.348895
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-boston-2",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Boston CambridgeSide Galleria",
+      "de": "SPUD Store Boston CambridgeSide Galleria"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_boston_2.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Cambridgeside Pl",
+      "streetNumber": "100",
+      "postalCode": "MA 02141",
+      "city": "Cambridge",
+      "country": "US"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -71.087485,
+        42.357696
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-stockholm",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Stockholm",
+      "de": "SPUD Store Stockholm"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_stockholm.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Hantverkargatan",
+      "streetNumber": "2A",
+      "postalCode": "112 21",
+      "city": "Stockholm",
+      "country": "SE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        18.053533,
+        59.327969
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-brussels",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Brussels",
+      "de": "SPUD Store Brussels"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_brussels.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Rue du Chêne",
+      "streetNumber": "7",
+      "postalCode": "1000",
+      "city": "Brussels",
+      "country": "BE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        4.350163,
+        50.84475
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-cologne",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Cologne",
+      "de": "SPUD Store Cologne"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_cologne.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Zeughausstraße",
+      "streetNumber": "6",
+      "postalCode": "50667",
+      "city": "Cologne",
+      "country": "DE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        6.950018,
+        50.941413
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-barcelona",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Barcelona",
+      "de": "SPUD Store Barcelona"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_barcelona.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Avinguda Diagonal",
+      "streetNumber": "522",
+      "postalCode": "08006",
+      "city": "Barcelona",
+      "country": "ES"
+    },
+    "geoLocation": {
+      "coordinates": [
+        2.152732,
+        41.394958
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-amsterdam",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Amsterdam",
+      "de": "SPUD Store Amsterdam"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_amsterdam.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Jodenbreestraat",
+      "streetNumber": "4",
+      "postalCode": "1011 NK",
+      "city": "Amsterdam",
+      "country": "NL"
+    },
+    "geoLocation": {
+      "coordinates": [
+        4.9037492,
+        52.3714165
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-london",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store London",
+      "de": "SPUD Store London"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_london.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Oxford Street",
+      "streetNumber": "5",
+      "postalCode": "W1A 1AB",
+      "city": "London",
+      "country": "GB"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -0.141107,
+        51.515456
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-madrid",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Madrid",
+      "de": "SPUD Store Madrid"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_madrid.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Calle Gran Vía",
+      "streetNumber": "41",
+      "postalCode": "28013",
+      "city": "Madrid",
+      "country": "ES"
+    },
+    "geoLocation": {
+      "coordinates": [
+        -3.706606,
+        40.420486
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-vienna",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Vienna",
+      "de": "SPUD Store Vienna"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_vienna.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Opernring",
+      "streetNumber": "6",
+      "postalCode": "1010",
+      "city": "Vienna",
+      "country": "AT"
+    },
+    "geoLocation": {
+      "coordinates": [
+        16.367181,
+        48.202872
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-zurich",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Zurich",
+      "de": "SPUD Store Zurich"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_zurich.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Hofwiesenstrasse",
+      "streetNumber": "139-141",
+      "postalCode": "8057",
+      "city": "Zurich",
+      "country": "CH"
+    },
+    "geoLocation": {
+      "coordinates": [
+        8.533638,
+        47.400272
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-paris",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Paris",
+      "de": "SPUD Store Paris"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_paris.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Rue Quentin-Bauchart",
+      "streetNumber": "27",
+      "postalCode": "75008",
+      "city": "Paris",
+      "country": "FR"
+    },
+    "geoLocation": {
+      "coordinates": [
+        2.2999867,
+        48.8709589
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-hamburg",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Hamburg",
+      "de": "SPUD Store Hamburg"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_hamburg.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Mönckebergstraße",
+      "streetNumber": "5",
+      "postalCode": "20095",
+      "city": "Hamburg",
+      "country": "DE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        10.0015642,
+        53.5512179
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-munich",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Munich",
+      "de": "SPUD Store Munich"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_munich.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Dachauer Str.",
+      "streetNumber": "128",
+      "postalCode": "80637",
+      "city": "Munich",
+      "country": "DE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        11.5407678,
+        48.1654126
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "key": "SPUD-store-berlin",
+    "roles": [
+      "InventorySupply",
+      "ProductDistribution"
+    ],
+    "name": {
+      "en": "SPUD Store Berlin",
+      "de": "SPUD Store Berlin"
+    },
+    "custom": {
+      "type": {
+        "key": "physicalStore"
+      },
+      "fields": {
+        "openingTimes": {
+          "en": "Mo-Fr. 10:00AM - 8:00PM\nSa. 9:00AM - 6:00PM",
+          "de": "Mo-Fr. 10:00 - 20:00\nSa. 9:00 - 18:00"
+        },
+        "imageUrl": "https://commercetools-joyride.s3.amazonaws.com/channels/SPUD_berlin.jpg"
+      }
+    },
+    "address": {
+      "streetName": "Unter den Linden",
+      "streetNumber": "21",
+      "postalCode": "10117",
+      "city": "Berlin",
+      "country": "DE"
+    },
+    "geoLocation": {
+      "coordinates": [
+        13.3879598,
+        52.5174434
+      ],
+      "type": "Point"
+    }
+  }
+]
