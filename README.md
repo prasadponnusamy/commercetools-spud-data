@@ -1,6 +1,6 @@
 # SPUD Data
 
-[![Build Status](https://travis-ci.org/commercetools/commercetools-SPUD-data.svg?branch=master)](https://travis-ci.org/commercetools/commercetools-SPUD-data)
+[![Build Status](https://travis-ci.org/commercetools/commercetools-sunrise-data.svg?branch=master)](https://travis-ci.org/commercetools/commercetools-sunrise-data)
 
 ## How to create a project with SPUD Data
 
